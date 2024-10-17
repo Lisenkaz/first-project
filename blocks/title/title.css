@@ -1,0 +1,12 @@
+.title{
+    position: relative;
+    z-index: 10;
+    width: 730px;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0 64px;
+    font-size: 102px; 
+    line-height: 96px; 
+    font-weight: 600; 
+  }

@@ -1,0 +1,13 @@
+.iframes{
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    margin-top: 50px; 
+    gap: 20px;
+}
+.iframes iframe {
+    width: 515px;
+    height: 316px;
+    border: none; 
+    margin-bottom: -40px;
+}

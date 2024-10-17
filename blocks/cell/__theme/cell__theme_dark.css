@@ -1,0 +1,5 @@
+.cell__theme_dark{
+    width: 200px;
+    display: flex;
+    flex-direction: column; 
+  }

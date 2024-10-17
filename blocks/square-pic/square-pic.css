@@ -1,0 +1,9 @@
+.square-pic{
+    width: 568px;
+    height: 568px;
+    right: 0;
+    position: absolute;
+    top: 64px;
+    z-index: 8;
+    transform-origin: center center;
+  }
